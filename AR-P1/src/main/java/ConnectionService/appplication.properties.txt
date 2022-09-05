@@ -1,0 +1,3 @@
+db-url=jdbc:postgresql://rev.cwkbyfm1mymj.us-east-1.rds.amazonaws.com:5432/Rev
+db-username=postgres
+db-password=ABC123!!
